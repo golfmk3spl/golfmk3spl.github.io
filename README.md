@@ -42,3 +42,5 @@ function test(){
 | aaaaa  | bbbbb  |
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
+
+Fonte: https://docs.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
